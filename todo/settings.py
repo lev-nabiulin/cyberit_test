@@ -83,7 +83,7 @@ DATABASES = {
         "NAME": "todo_db",
         "USER": "lev",
         "PASSWORD": "password",
-        "HOST": "localhost",
+        "HOST": "db",
         "PORT": "",
     }
 }
